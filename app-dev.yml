@@ -12,5 +12,5 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
 
 upload-files:
-  local=true
-  upload-dir=d:/uploads/
+  local: true
+  upload-dir: d:/uploads/
